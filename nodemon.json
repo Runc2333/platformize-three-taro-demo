@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "src",
+    "rollup.config.js"
+  ],
+  "ext": "rollup.ts,rollup.js",
+  "legacyWatch": true,
+  "exec": "rollup -c"
+}
